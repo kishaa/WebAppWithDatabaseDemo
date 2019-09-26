@@ -1,12 +1,12 @@
 # WebAppWithDatabaseDemo
-Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps (previously VSTS) 
+Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps (previously VSTS)
 
 </br>
 
 <table>
   <tr>
     <td>Build status</td>
-    <td>Release status - dev</td> 
+    <td>Release status - dev</td>
     <td>Release status - test</td>  
     <td>Release status - prod</td>
   </tr>
@@ -25,9 +25,9 @@ Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azur
   </td>
   </tr>
   </table>
-  
+
   </br>
-  
+
   <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/HoussemDellai/WebAppWithDatabaseDemo/master/AzureResourceGroupDeployment/WebSiteSQLDatabase.json" target="_blank">
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
@@ -37,5 +37,7 @@ Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azur
 </a>
 
 </br>
-      
+
 https://www.youtube.com/watch?v=uVne2HXkWXI&list=PLpbcUe4chE78FEvDjD9zfzSGvsdkvkkrj&index=1
+
+This line is added to check the PR trigger in azure DevOps
