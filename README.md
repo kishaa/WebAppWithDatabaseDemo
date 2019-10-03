@@ -49,4 +49,3 @@ This line is added to check the PR-comment trigger in azure DevOps
 This line is added to check the PR-comment trigger for CD in azure DevOps
 
 ####################################################################################
-************************************************************************************
