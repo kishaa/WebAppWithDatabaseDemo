@@ -8,7 +8,7 @@ namespace WebApp.UnitTest
         [TestMethod]
         public void UnitTestShouldAlwaysWorkTest()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
 
         [TestMethod]
